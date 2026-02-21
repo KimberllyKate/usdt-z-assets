@@ -1,0 +1,15 @@
+{
+  "name": "USDT.z",
+  "symbol": "USDT.z",
+  "description": "USDT.z is a high-performance bridged asset on Solana, optimized for the Z-ecosystem.",
+  "image": "https://raw.githubusercontent.com/KimberllyKate/usdt-z-assets/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KimberllyKate/usdt-z-assets/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
